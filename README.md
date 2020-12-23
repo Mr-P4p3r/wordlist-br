@@ -1,6 +1,6 @@
 # wordlist-br
 
-#Essa wordlist foi criada há uns 2 anos, buscando atender a nossa necessidade de uma lista para pentests focada em palavras do Brasil. 
+Essa wordlist foi criada há uns 2 anos, buscando atender a nossa necessidade de uma lista para pentests focada em palavras do Brasil. 
 
 |Qtd|Descrição|
 |----|--|
