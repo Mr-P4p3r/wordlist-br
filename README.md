@@ -11,6 +11,7 @@
 | 928 |  Nomes de bandas |
 | 677  | Times de futebol |
 | 43  | Senhas mais utilizadas no Brasil |
-| 100.000,000  | Números (00000000 até 99999999)|
+|146.645 | Números |
 
+Total:165.029
 
