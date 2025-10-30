@@ -1,6 +1,6 @@
 # wordlist-br
 
-This list of words was created about 2 years ago, seeking to meet our need for a list for Pentestes focused on words from Brazil.
+This list of words was created about 2 years ago, seeking to meet our need for a list for pentesters focused on words from Brazil.
 
 |Qtd|Description|
 |----|--|
@@ -16,7 +16,7 @@ This list of words was created about 2 years ago, seeking to meet our need for a
 Total:165.029
 
 
-Essa wordlist foi criada há uns 2 anos, buscando atender a nossa necessidade de uma lista para pentests focada em palavras do Brasil. 
+Essa wordlist foi criada há uns 2 anos, buscando atender a nossa necessidade de uma lista para pentesters focada em palavras do Brasil. 
 
 |Qtd|Descrição|
 |----|--|
